@@ -12,9 +12,7 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "base_path": "JenniePublicTestDocset",
-      "site_name": "Docs"
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
